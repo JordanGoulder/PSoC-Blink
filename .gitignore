@@ -5,3 +5,6 @@ codegentemp
 *.cyfit
 *.cydwr
 *.cyprj.*
+*.cycdx
+*.rpt
+*_timing.html
